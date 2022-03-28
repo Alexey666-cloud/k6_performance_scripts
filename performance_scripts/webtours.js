@@ -146,8 +146,8 @@ export function choose_ticket(){
 
 export function pay(){
     let res = http.post(BASE_URL+"/cgi-bin/reservations.pl", {
-                                    "firstName":"Marina",
-                                    "lastName":"Rusina",
+                                    "firstName":"Fedor",
+                                    "lastName":"Pupkin",
                                     "address1":"",
                                     "address2":"",
                                     "pass1":"rr rr",
